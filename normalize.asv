@@ -1,0 +1,7 @@
+function [y] = normalize(x)
+if x < 3
+   disp('<')
+end
+  
+end
+

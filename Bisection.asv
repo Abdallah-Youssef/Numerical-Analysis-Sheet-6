@@ -1,0 +1,11 @@
+clc;
+
+
+xl = -2
+xu = -1
+
+while ((xu - xl) / 2) > 10 ^(-3)
+    xr = (xl + xu) / 2
+    
+    if f(xr)*f(xl)
+end
